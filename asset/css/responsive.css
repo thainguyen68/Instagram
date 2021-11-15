@@ -110,4 +110,9 @@
     .isnone {
         display: none;
     }
+
+    .createnew-inner {
+        width: 300px;
+        height: 350px;
+    }
 }
