@@ -274,6 +274,7 @@
     height: 480px;
     background-color: #fff;
     width: 450px;
+    border-radius: 20px ;
 }
 .createnew-inner-main {
     display: flex;
